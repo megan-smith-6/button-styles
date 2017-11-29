@@ -28,13 +28,8 @@ div {
 }
 
 .btn-subtle {
-  display: inline-block;
-  text-decoration: none;
-  font-size: 1.125rem;
   color: #fff;
   background-color: #ccc;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
   border-width: 3px;
 }
 
