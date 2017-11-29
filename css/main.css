@@ -21,3 +21,7 @@ div {
   border-radius: 8px;
   border-image-width: 3px;
 }
+
+.btn:hover {
+  background-color: #000;
+}
